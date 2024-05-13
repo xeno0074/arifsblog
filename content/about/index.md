@@ -26,6 +26,6 @@ Computer Science and Engineering (Bachelor)
 CGPA 8.17
 
 ### **TECH STACK**
-![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,bash,spring,django)  
+![My Skills](https://skillicons.dev/icons?i=java,python,c,cpp,bash)  
 ![My Skills](https://skillicons.dev/icons?i=spring,django,mysql,postgres,mongo,redis)  
 ![My Skills](https://skillicons.dev/icons?i=linux,docker,jenkins,git)
