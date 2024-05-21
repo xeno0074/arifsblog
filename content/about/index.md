@@ -5,7 +5,8 @@ eleventyNavigation:
   order: 3
 ---
 
-<span style="font-size:2.7em;">**Arif Ahmed**</span>  
+<!-- <span style="font-size:2.7em;">**Arif Ahmed**</span>   -->
+# Arif Ahmed
 Senior Software Engineer with 3+ years of experience building efficient, scalable, and maintainable software solutions that align with the top industry standards.
 
 ### **CONTACT**
